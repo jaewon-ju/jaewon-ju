@@ -1,9 +1,16 @@
 ### 경험을 통해 빠르게 성장하는 개발자, 주재원입니다.
+> Backend-Developer
+
+<br>
 
 ---
 
+<br>
+
 ### 🎓 University Of Seoul
-#### Computer Science '20
+> #### Computer Science '20
+
+<br>
 
 ---
 
