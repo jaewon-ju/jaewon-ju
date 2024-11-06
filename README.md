@@ -1,3 +1,12 @@
+### 경험을 통해 빠르게 성장하는 개발자, 주재원입니다.
+
+---
+
+### University Of Seoul
+#### Computer Science 20
+
+---
+
 ## Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
