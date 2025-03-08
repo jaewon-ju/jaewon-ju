@@ -11,6 +11,8 @@
 🎓 University Of Seoul
 > #### Computer Science '20
 
+<br>
+
 🖥️ Wedeo Backend Developer
 > #### 2024/12 ~
 
