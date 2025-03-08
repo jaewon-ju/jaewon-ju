@@ -7,8 +7,12 @@
 
 <br>
 
-### 🎓 University Of Seoul
+### Info
+🎓 University Of Seoul
 > #### Computer Science '20
+
+🖥️ Wedeo Backend Developer
+> #### 2024/12 ~
 
 <br>
 
