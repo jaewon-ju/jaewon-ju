@@ -13,8 +13,8 @@
 
 <br>
 
-🖥️ Wedeo Backend Developer
-> #### 2024/12 ~
+🖥️ Wedeo FullStack Developer
+> #### 2024/12 ~ 2025/07
 
 <br>
 
