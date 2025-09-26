@@ -14,7 +14,7 @@
 
 ## Experience
 
-**Wedeo** | Fullstack Developer
+**10mg** | Fullstack Developer
 2024.12 – 2025.07 (7 months)
 
 >#### 1. Stripe & Toss Payment System Development (2024.12 – 2025.02)
